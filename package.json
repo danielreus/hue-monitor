@@ -1,0 +1,16 @@
+{
+  "name": "hue-monitor",
+  "version": "0.0.1",
+  "description": "Localy monitor Philips Hue for sensor events",
+  "main": "hue-monitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Reus",
+  "license": "ISC",
+  "dependencies": {
+    "node-hue-api": "^2.4.1",
+    "request": "^2.79.0",
+    "synchronize": "^2.0.0"
+  }
+}
